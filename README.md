@@ -184,7 +184,4 @@ Vuelo ID: VY1606 - Slot asignado: 2
 - **Agregar nuevos formatos de datos:** Crea una nueva clase en `entities/lector.py`.
 - **Mejorar la lógica de slots:** Añade prioridades o reglas más complejas.
 
----
-
-Si tienes dudas o quieres mejorar el proyecto, ¡abre un issue y lo resolveremos juntos! ✈️
 ```
