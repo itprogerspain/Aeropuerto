@@ -1,0 +1,26 @@
+# Eliminate the virtual environment
+venv/
+.venv/
+.env
+
+# Excluding IDE settings
+.idea/
+
+# Exclude personal files
+personal_notes.txt
+
+# Exclude caches and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Exclude hidden editor files
+*.swp
+*.swo
+*.bak
+.DS_Store
+
+# Exclude logs
+logs/
+*.log
