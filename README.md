@@ -110,8 +110,8 @@ Puedes ejecutar el proyecto dentro de un contenedor Docker para garantizar un en
 - El archivo `.dockerignore` evita que se copien archivos innecesarios (como `venv/`) en el contenedor.
 - Si deseas usar una versión específica de la imagen, puedes cambiar `latest` por otro tag, por ejemplo:
   ```bash
-  docker build -t aeropuerto:v1.0 .
-  docker run --rm aeropuerto:v1.0
+  docker build -t aeropuerto:latest .
+  docker run --rm aeropuerto:latest
   ```
 
 ---
